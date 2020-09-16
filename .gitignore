@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/americanas/.vs/americanas/DesignTimeBuild/.dtbcache
+/americanas/.vs/americanas/DesignTimeBuild/.dtbcache.v2
+/americanas/.vs/americanas/v15/Server/sqlite3
